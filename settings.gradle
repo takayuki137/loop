@@ -1,0 +1,2 @@
+rootProject.name='if_and_else'
+include ':app'
